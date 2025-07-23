@@ -32,6 +32,7 @@
 ![PYTHON](https://img.shields.io/badge/python-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![RUST](https://img.shields.io/badge/-Rust-eb4034?logo=rust&logoColor=white&style=for-the-badge)
 
 
 ## Donations
