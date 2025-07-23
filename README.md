@@ -20,7 +20,7 @@
 
 ## Skills
 - [🔄🛠️] **Reverse engineering**  
-- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua, Python
+- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua, Python, Rust
 - [🖼️🥰] **UI/UX** design  
 - [🕹️🛠️] **Game** development *(Roblox Platform)*  
 
