@@ -33,9 +33,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![RUST](https://img.shields.io/badge/-Rust-eb4034?logo=rust&logoColor=white&style=for-the-badge)
-
-
-## Donations
-I love Donations! They help me with projects, required hardware, and more!  
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x4a0e2B6bC654490c3c07A263C440Be90f91Fc012)](https://en.cryptobadges.io/donate/0x4a0e2B6bC654490c3c07A263C440Be90f91Fc012)
